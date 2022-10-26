@@ -16,6 +16,10 @@ Touch Screen Monitor to display any data collected by components and can be comp
 Smart Power Strip with backup (APC API preferred)
 
 I have some of this code already but am new to Github.  I apoligize in advance and hopefully will pick this up fairly quickly.
-ANYONE IS WELCOME TO HELP - I am a cancer survivor, veteran, and volunteer in many orgranizations that help our country and others.  
+
+ANYONE IS WELCOME TO HELP 
+
+I am a cancer survivor, veteran, and volunteer in many orgranizations that help our country and others.  
 This is an area that I feel needs somethings inexpensive to replace the $1000-5000 units they sell today.
+
 This is another way to give back........pay it foorward.  (25 years hydroponics experience - coding well a long time but very few lines :-)
