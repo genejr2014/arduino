@@ -3,6 +3,8 @@ Arduino Hydroponic Controller Build - Alpha
 
 I am new to Arduino as for coding, it takes me 3 hours what a normal programmer does in 1.  I have managed many programming projects and hope people will be interested in being a part of designing a state of the art hydroponic grow controller and web interface.
 
+ARDUINO DEVICES - (PORTENA H7 is one of my boards but nano's will also work fine in most situations - a 1010 wifi board is also required other parts will be listed in another doc)
+
 Co2 Monitor and Release System
 
 Lighting Monitor (On/Off), PAR, Energy Used Etc.
